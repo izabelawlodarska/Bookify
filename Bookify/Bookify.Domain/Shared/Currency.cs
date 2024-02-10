@@ -1,4 +1,4 @@
-﻿namespace Bookify.Domain.Apartments
+﻿namespace Bookify.Domain.Shared
 {
     public record Currency
     {
@@ -7,7 +7,7 @@
         public static readonly Currency Eur = new("EUR");
 
         private Currency(string code) => Code = code;
-        
+
         public string Code { get; set; }
 
         public static Currency FromCode(string code)
