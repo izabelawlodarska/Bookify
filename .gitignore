@@ -397,3 +397,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Bookify/Bookify.Domain/bin/Debug/net8.0
