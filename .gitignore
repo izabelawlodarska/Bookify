@@ -17,6 +17,7 @@
 mono_crash.*
 
 # Build results
+/Bookify/*/obj/*
 Bookify/[Dd]ebug/
 Bookify/[Dd]ebugPublic/
 Bookify/[Rr]elease/
@@ -396,10 +397,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-/Bookify/Bookify.Domain/obj/Bookify.Domain.csproj.nuget.dgspec.json
-/Bookify/Bookify.Domain/obj/project.assets.json
-/Bookify/Bookify.Domain/obj/project.nuget.cache
-/Bookify/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.AssemblyInfoInputs.cache
-/Bookify/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.assets.cache
-/Bookify/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.GeneratedMSBuildEditorConfig.editorconfig
-/Bookify/Bookify.Domain/obj/Debug/net8.0/Bookify.Domain.AssemblyInfo.cs
