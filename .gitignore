@@ -398,6 +398,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /Bookify/Bookify.Domain/bin/Debug/net8.0
-/Bookify/.vs/Bookify/v17/.futdcache.v2
-/Bookify/.vs/ProjectEvaluation/bookify.metadata.v7.bin
-/Bookify/.vs/ProjectEvaluation/bookify.projects.v7.bin
+/Bookify/.vs/*
